@@ -1,0 +1,52 @@
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.Desktop.exe.config
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.Desktop.exe
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.Desktop.pdb
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.csproj.AssemblyReference.cache
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.Properties.Resources.resources
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.csproj.GenerateResource.cache
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.exe
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.pdb
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.BusinessLogic.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.Entities.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.DataAccess.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.BusinessLogic.pdb
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.Entities.pdb
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.DataAccess.pdb
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmCargos.resources
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.csproj.CopyComplete
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmAgregarCargo.resources
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmPrincipal.resources
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmAgregarEmpleado.resources
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmEmpleados.resources
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmConfig.resources
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmTarjetas.resources
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmTarjetasAgregar.resources
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmVentas.resources
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmLogin.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.Desktop.exe.config
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.Desktop.exe
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.Desktop.pdb
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.BusinessLogic.dll
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.Entities.dll
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.DataAccess.dll
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.BusinessLogic.pdb
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.Entities.pdb
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\bin\Debug\TodoKiosco.DataAccess.pdb
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.csproj.AssemblyReference.cache
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmAgregarCargo.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmAgregarEmpleado.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmCargos.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmConfig.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmEmpleados.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmLogin.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmPrincipal.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmTarjetas.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmTarjetasAgregar.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.frmVentas.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.Properties.Resources.resources
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.csproj.GenerateResource.cache
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.csproj.CopyComplete
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.exe
+C:\Users\Dayeli Miron\source\repos\TodoKiosco\TodoKiosco.Desktop\obj\Debug\TodoKiosco.Desktop.pdb

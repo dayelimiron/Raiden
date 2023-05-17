@@ -1,0 +1,11 @@
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.BusinessLogic\bin\Debug\TodoKiosco.BusinessLogic.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.BusinessLogic\bin\Debug\TodoKiosco.BusinessLogic.pdb
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.BusinessLogic\bin\Debug\TodoKiosco.DataAccess.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.BusinessLogic\bin\Debug\TodoKiosco.Entities.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.BusinessLogic\bin\Debug\TodoKiosco.DataAccess.pdb
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.BusinessLogic\bin\Debug\TodoKiosco.Entities.pdb
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.BusinessLogic\obj\Debug\TodoKiosco.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.BusinessLogic\obj\Debug\TodoKiosco.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.BusinessLogic\obj\Debug\TodoKiosco.BusinessLogic.csproj.CopyComplete
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.BusinessLogic\obj\Debug\TodoKiosco.BusinessLogic.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.BusinessLogic\obj\Debug\TodoKiosco.BusinessLogic.pdb

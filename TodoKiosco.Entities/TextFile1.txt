@@ -1,0 +1,39 @@
+﻿//Los campos por recomendacion los campos deben de ser privados
+        //Los campos comienzan por _
+        private int _edad;
+
+        //Las Propiedades por recomendacion los campos deben de ser publicos
+        //Las propiedades es escriben en Pascal
+        //Tiene accessor: GET: Retornar el valor  SET: Establecer el valor
+        //Las propiedades se realizan para gestionar los campos?
+
+        //Propiedad de solo lectura
+        public int Edad
+        {
+            get
+            {
+                return _edad;
+            }
+            set
+            {
+                if( value == 0)
+                {
+                    _edad = 20;
+                }                
+            }
+
+        }
+
+
+        private string _telefono;
+
+        public string Telefono
+        {
+            get { return _telefono; }
+            set { _telefono = value; }
+        }
+
+        //Propiedades automaticamente implementadas
+        public string Apellido { set; private get; } //backing_fields_01, solo escritura
+
+        public string DUI { private set; get; }//Solo lectura 

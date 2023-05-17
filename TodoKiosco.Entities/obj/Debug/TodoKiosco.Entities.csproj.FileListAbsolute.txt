@@ -1,0 +1,6 @@
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Entities\bin\Debug\TodoKiosco.Entities.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Entities\bin\Debug\TodoKiosco.Entities.pdb
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Entities\obj\Debug\TodoKiosco.Entities.csproj.AssemblyReference.cache
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Entities\obj\Debug\TodoKiosco.Entities.csproj.CoreCompileInputs.cache
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Entities\obj\Debug\TodoKiosco.Entities.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.Entities\obj\Debug\TodoKiosco.Entities.pdb

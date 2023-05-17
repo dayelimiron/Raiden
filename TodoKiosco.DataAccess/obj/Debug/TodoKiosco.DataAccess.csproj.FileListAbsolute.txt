@@ -1,0 +1,9 @@
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.DataAccess\bin\Debug\TodoKiosco.DataAccess.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.DataAccess\bin\Debug\TodoKiosco.DataAccess.pdb
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.DataAccess\bin\Debug\TodoKiosco.Entities.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.DataAccess\bin\Debug\TodoKiosco.Entities.pdb
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.DataAccess\obj\Debug\TodoKiosco.DataAccess.csproj.AssemblyReference.cache
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.DataAccess\obj\Debug\TodoKiosco.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.DataAccess\obj\Debug\TodoKiosco.DataAccess.csproj.CopyComplete
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.DataAccess\obj\Debug\TodoKiosco.DataAccess.dll
+C:\Users\LC\source\repos\TodoKiosco\TodoKiosco.DataAccess\obj\Debug\TodoKiosco.DataAccess.pdb
